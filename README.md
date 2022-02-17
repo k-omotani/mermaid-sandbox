@@ -1,6 +1,9 @@
 # mermaid-sandbox
 mermaid記法の練習
 
+# 参考
+https://mermaid-js.github.io/mermaid/#/
+
 ```mermaid
 graph TB
   A(("aaa"))--"こんにちは"-->B>"bbb"]
